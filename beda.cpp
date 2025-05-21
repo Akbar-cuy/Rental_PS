@@ -72,7 +72,7 @@ int main() {
                 if (listkosong()) {
                     cout << "List kosong!" << endl;
                 } else {
-                    cout << "Baca dari belakang:" << endl;
+                    cout << "Baca dari belakanggggg:" << endl;
                     bacamundur();
                 }
                 system("pause");
